@@ -9,7 +9,7 @@ Passionate about building practical software solutions, learning new technologie
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SamhithaBhatN&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=SamhithaBhatN&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -18,9 +18,9 @@ Passionate about building practical software solutions, learning new technologie
 
 - 🎓 BCA Graduate from Alva's College, Moodubidire
 - 💻 Passionate about Python, Flask, and Web Development
-- 🌱 Currently learning Data Structures & Algorithms, Full Stack Development, and Git
+- 🌱 Currently learning Data Structures & Algorithms, Full Stack Development, SQL, and Git
 - 🚀 Interested in building real-world software applications
-- 📚 Continuously improving my programming and communication skills
+- 📚 Continuously improving programming, problem-solving, and communication skills
 - 🤝 NSS Volunteer
 - 🏕️ Bharath Scouts & Guides Member
 - 🎯 Aspiring Software Developer
@@ -45,7 +45,7 @@ A web-based canteen management application developed using Flask.
 - Admin Dashboard
 - Staff Dashboard
 
-**Tech Stack**
+### Tech Stack
 
 - Python
 - Flask
@@ -56,9 +56,9 @@ A web-based canteen management application developed using Flask.
 
 ---
 
-## 💰 BudgetWise (In Progress)
+## 💰 BudgetWise *(In Progress)*
 
-A Personal Finance and Expense Management System.
+A Personal Finance & Expense Management System.
 
 ### Features
 
@@ -68,9 +68,16 @@ A Personal Finance and Expense Management System.
 - Monthly Reports
 - Category Management
 
+### Tech Stack
+
+- Python
+- Flask
+- Bootstrap
+- SQLite
+
 ---
 
-## 🌐 Portfolio Website (Coming Soon)
+## 🌐 Portfolio Website *(Coming Soon)*
 
 A personal portfolio showcasing
 
@@ -112,12 +119,12 @@ A personal portfolio showcasing
 # 🏆 Certifications
 
 - 🐍 Python Programming — SoloLearn
+- 💻 Full Stack Development Workshop — Alva's College
 - 🔐 Introduction to Cyber Security — Cisco Networking Academy
-- 🛡️ Foundation of Cyber Security — Coursera
+- 🛡️ Foundations of Cyber Security — Coursera
 - 📊 Data Science 101 — IBM SkillsBuild
-- 🤖 Application of AI — Great Learning
+- 🤖 Applications of AI — Great Learning
 - 💻 C Programming — Programming Hero
-- 🌐 Full Stack Development Workshop — Alva's College
 
 ---
 
@@ -136,15 +143,15 @@ A personal portfolio showcasing
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SamhithaBhatN&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SamhithaBhatN&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamhithaBhatN&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=SamhithaBhatN&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SamhithaBhatN&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamhithaBhatN&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -160,7 +167,7 @@ A personal portfolio showcasing
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -172,7 +179,7 @@ A personal portfolio showcasing
 
 # 💻 Coding Profiles
 
-<p align="left">
+<p>
 
 <a href="https://www.codechef.com/users/samhitha_bhat">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
@@ -184,7 +191,7 @@ A personal portfolio showcasing
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="https://www.linkedin.com/in/samhithabhat31">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -194,7 +201,7 @@ A personal portfolio showcasing
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="samhithabhat311@gmail.com">
+<a href="mailto:samhithabhat311@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -210,8 +217,8 @@ A personal portfolio showcasing
 
 <div align="center">
 
-## ⭐ Thank you for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-*"Code • Learn • Build • Grow"* 🚀
+### 🚀 Code • Learn • Build • Grow
 
 </div>
