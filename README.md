@@ -1,126 +1,118 @@
 <h1 align="center">Hi 👋, I'm Samhitha Bhat</h1>
 
 <h3 align="center">
-BCA Graduate | Python & Flask Developer | Web Development Enthusiast
+Python Developer • Flask Developer • Web Development Enthusiast
 </h3>
 
 <p align="center">
-Passionate about building practical software solutions, learning new technologies, and continuously improving my technical skills.
+Passionate about building real-world software solutions and continuously improving my programming skills.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=SamhithaBhatN&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
+<img src="https://komarev.com/ghpvc/?username=SamhithaBhatN&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<img src="https://img.shields.io/github/followers/SamhithaBhatN?label=Followers&style=flat"/>
+
+<img src="https://img.shields.io/github/stars/SamhithaBhatN?affiliations=OWNER&style=flat"/>
+
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-- 🎓 BCA Graduate from Alva's College, Moodubidire
-- 💻 Passionate about Python, Flask, and Web Development
-- 🌱 Currently learning Data Structures & Algorithms, Full Stack Development, SQL, and Git
-- 🚀 Interested in building real-world software applications
-- 📚 Continuously improving programming, problem-solving, and communication skills
+- 🎓 BCA Graduate
+- 💻 Python & Flask Developer
+- 🌱 Learning Full Stack Development, DSA, SQL and Git
+- 🚀 Building practical software projects
+- 📚 Improving problem-solving & communication skills
 - 🤝 NSS Volunteer
 - 🏕️ Bharath Scouts & Guides Member
 - 🎯 Aspiring Software Developer
 
 ---
 
-# 🚀 Projects
-
-## 🍽️ Smart Canteen Order and Queue System
-
-A web-based canteen management application developed using Flask.
-
-### Features
-
-- User Authentication
-- Food Menu Management
-- Shopping Cart
-- Online Food Ordering
-- Queue Position Tracking
-- Order History
-- Feedback System
-- Admin Dashboard
-- Staff Dashboard
-
-### Tech Stack
-
-- Python
-- Flask
-- HTML
-- CSS
-- JavaScript
-- SQLite
-
----
-
-## 💰 BudgetWise *(In Progress)*
-
-A Personal Finance & Expense Management System.
-
-### Features
-
-- Expense Tracking
-- Budget Planning
-- Charts & Analytics
-- Monthly Reports
-- Category Management
-
-### Tech Stack
-
-- Python
-- Flask
-- Bootstrap
-- SQLite
-
----
-
-## 🌐 Portfolio Website *(Coming Soon)*
-
-A personal portfolio showcasing
-
-- Skills
-- Projects
-- Certifications
-- Contact Information
-
----
-
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python,c,html,css,js,mysql"/>
 </p>
 
 ### Frameworks & Tools
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=flask,sqlite,git,github,vscode"/>
 </p>
 
 ---
 
+# 🚀 Featured Projects
+
+## 🍽️ Smart Canteen Order & Queue System
+
+✔ User Authentication
+
+✔ Online Ordering
+
+✔ Queue Tracking
+
+✔ Admin Dashboard
+
+✔ Staff Dashboard
+
+**Tech Used**
+
+Python • Flask • HTML • CSS • JavaScript • SQLite
+
+---
+
+## 💰 BudgetWise *(In Progress)*
+
+✔ Expense Tracking
+
+✔ Budget Planning
+
+✔ Monthly Reports
+
+✔ Analytics Dashboard
+
+**Tech Used**
+
+Python • Flask • Bootstrap • SQLite
+
+---
+
+## 🌐 Portfolio Website *(Coming Soon)*
+
+Personal website to showcase
+
+- Projects
+- Skills
+- Certifications
+- Resume
+- Contact
+
+---
+
 # 📚 Currently Learning
 
-- Python Advanced Concepts
-- Flask Development
-- Data Structures & Algorithms
+- Advanced Python
+- Flask
 - SQL
 - Git & GitHub
-- Full Stack Web Development
-- Problem Solving
+- Data Structures & Algorithms
+- Full Stack Development
 
 ---
 
 # 🏆 Certifications
 
 - 🐍 Python Programming — SoloLearn
-- 💻 Full Stack Development Workshop — Alva's College
-- 🔐 Introduction to Cyber Security — Cisco Networking Academy
+- 💻 Full Stack Development — Alva's College
+- 🔐 Introduction to Cyber Security — Cisco
 - 🛡️ Foundations of Cyber Security — Coursera
 - 📊 Data Science 101 — IBM SkillsBuild
 - 🤖 Applications of AI — Great Learning
@@ -128,40 +120,11 @@ A personal portfolio showcasing
 
 ---
 
-# 🌟 Areas of Interest
-
-- Python Development
-- Web Development
-- Software Engineering
-- Data Science
-- Cyber Security
-- Problem Solving
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SamhithaBhatN&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://streak-stats.demolab.com?user=SamhithaBhatN&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamhithaBhatN&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SamhithaBhatN&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -202,23 +165,23 @@ A personal portfolio showcasing
 </a>
 
 <a href="mailto:samhithabhat311@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💬 Quote
+# 💡 Quote
 
-> **"Learning never stops. Every project is an opportunity to improve, explore, and grow."**
+> *"Every project is a step toward becoming a better developer."*
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-### 🚀 Code • Learn • Build • Grow
+**Code • Learn • Build • Grow 🚀**
 
 </div>
