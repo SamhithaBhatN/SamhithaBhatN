@@ -1,69 +1,69 @@
 <h1 align="center">Hi 👋, I'm Samhitha Bhat</h1>
 
 <h3 align="center">
-Python Developer • Flask Developer • Web Development Enthusiast
+BCA Graduate • Python Developer • Flask Developer
 </h3>
 
 <p align="center">
-Passionate about building real-world software solutions and continuously improving my programming skills.
+Passionate about developing practical web applications using Python and Flask while continuously learning modern software development technologies.
 </p>
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=SamhithaBhatN&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 <img src="https://img.shields.io/github/followers/SamhithaBhatN?label=Followers&style=flat"/>
 
 <img src="https://img.shields.io/github/stars/SamhithaBhatN?affiliations=OWNER&style=flat"/>
-
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-- 🎓 BCA Graduate
+- 🎓 BCA Graduate (CGPA: **8.61/10**)
 - 💻 Python & Flask Developer
-- 🌱 Learning Full Stack Development, DSA, SQL and Git
-- 🚀 Building practical software projects
-- 📚 Improving problem-solving & communication skills
+- 🌱 Currently learning Full Stack Development, Data Structures & Algorithms, SQL, and Git
+- 🚀 Passionate about building practical software applications
+- 📚 Continuously improving problem-solving and communication skills
 - 🤝 NSS Volunteer
 - 🏕️ Bharath Scouts & Guides Member
 - 🎯 Aspiring Software Developer
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=python,c,html,css,js,mysql"/>
 </p>
 
 ### Frameworks & Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=flask,sqlite,git,github,vscode"/>
+<p>
+<img src="https://skillicons.dev/icons?i=flask,bootstrap,sqlite,git,github,vscode"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🍽️ Smart Canteen Order & Queue System
+## 🍽️ SnackQ – Smart Canteen Order & Queue Management System
 
-✔ User Authentication
+A web-based canteen ordering and queue management system.
 
-✔ Online Ordering
+### Features
 
-✔ Queue Tracking
+- User Authentication
+- Online Food Ordering
+- Queue Position Tracking
+- Admin Dashboard
+- Staff Dashboard
+- Order History
+- Feedback System
 
-✔ Admin Dashboard
-
-✔ Staff Dashboard
-
-**Tech Used**
+**Tech Stack**
 
 Python • Flask • HTML • CSS • JavaScript • SQLite
 
@@ -71,48 +71,50 @@ Python • Flask • HTML • CSS • JavaScript • SQLite
 
 ## 💰 BudgetWise *(In Progress)*
 
-✔ Expense Tracking
+A Personal Finance & Expense Management System.
 
-✔ Budget Planning
+### Features
 
-✔ Monthly Reports
+- Expense Tracking
+- Budget Planning
+- Monthly Reports
+- Analytics Dashboard
+- Category Management
 
-✔ Analytics Dashboard
+**Tech Stack**
 
-**Tech Used**
-
-Python • Flask • Bootstrap • SQLite
+Python • Flask • Bootstrap • SQLAlchemy • MySQL
 
 ---
 
 ## 🌐 Portfolio Website *(Coming Soon)*
 
-Personal website to showcase
+A personal website to showcase:
 
 - Projects
-- Skills
+- Technical Skills
 - Certifications
 - Resume
-- Contact
+- Contact Information
 
 ---
 
 # 📚 Currently Learning
 
-- Advanced Python
-- Flask
+- Full Stack Development
+- Data Structures & Algorithms
 - SQL
 - Git & GitHub
-- Data Structures & Algorithms
-- Full Stack Development
+- Advanced Python
+- Problem Solving
 
 ---
 
 # 🏆 Certifications
 
 - 🐍 Python Programming — SoloLearn
-- 💻 Full Stack Development — Alva's College
-- 🔐 Introduction to Cyber Security — Cisco
+- 💻 Full Stack Development Workshop — Alva's College
+- 🔐 Introduction to Cyber Security — Cisco Networking Academy
 - 🛡️ Foundations of Cyber Security — Coursera
 - 📊 Data Science 101 — IBM SkillsBuild
 - 🤖 Applications of AI — Great Learning
@@ -127,6 +129,8 @@ Personal website to showcase
 <img height="170" src="https://streak-stats.demolab.com?user=SamhithaBhatN&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+> **Note:** GitHub Readme Stats is currently experiencing deployment issues. You can add the stats cards back later when the service becomes available again.
 
 ---
 
@@ -174,14 +178,14 @@ Personal website to showcase
 
 # 💡 Quote
 
-> *"Every project is a step toward becoming a better developer."*
+> *"Learning, building, and improving—one project at a time."*
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-**Code • Learn • Build • Grow 🚀**
+### **Code • Learn • Build • Grow 🚀**
 
 </div>
