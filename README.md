@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Samhitha Bhat</h1>
 
 <h3 align="center">
-BCA Graduate • Python Developer • Flask Developer
+BCA Graduate • Python & Flask Developer • Aspiring Software Developer
 </h3>
 
 <p align="center">
-Passionate about developing practical web applications using Python and Flask while continuously learning modern software development technologies.
+Passionate about building practical web applications with Python and Flask while continuously improving my problem-solving, full-stack development, and software engineering skills.
 </p>
 
 <p align="center">
@@ -20,14 +20,16 @@ Passionate about developing practical web applications using Python and Flask wh
 
 # 👩‍💻 About Me
 
-- 🎓 BCA Graduate (CGPA: **8.61/10**)
-- 💻 Python & Flask Developer
-- 🌱 Currently learning Full Stack Development, Data Structures & Algorithms, SQL, and Git
-- 🚀 Passionate about building practical software applications
-- 📚 Continuously improving problem-solving and communication skills
-- 🤝 NSS Volunteer
-- 🏕️ Bharath Scouts & Guides Member
-- 🎯 Aspiring Software Developer
+* 🎓 BCA Graduate — CGPA: **8.61/10**
+* 💻 Python & Flask Developer
+* 🌐 Interested in Full Stack Development
+* 🧠 Practicing Data Structures & Algorithms and problem solving
+* 🗄️ Interested in SQL, databases, and software engineering
+* 🚀 Passionate about building practical, portfolio-quality applications
+* 📚 Continuously improving my technical and communication skills
+* 🤝 NSS Volunteer
+* 🏕️ Bharath Scouts & Guides Member
+* 🎯 Aspiring Software Developer
 
 ---
 
@@ -39,10 +41,10 @@ Passionate about developing practical web applications using Python and Flask wh
 <img src="https://skillicons.dev/icons?i=python,c,html,css,js,mysql"/>
 </p>
 
-### Frameworks & Tools
+### Frameworks, Databases & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask,bootstrap,sqlite,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=flask,bootstrap,sqlite,mysql,git,github,vscode"/>
 </p>
 
 ---
@@ -51,74 +53,175 @@ Passionate about developing practical web applications using Python and Flask wh
 
 ## 🍽️ SnackQ – Smart Canteen Order & Queue Management System
 
-A web-based canteen ordering and queue management system.
+A role-based web application designed to streamline food ordering and queue management in a canteen environment.
 
-### Features
+### Key Features
 
-- User Authentication
-- Online Food Ordering
-- Queue Position Tracking
-- Admin Dashboard
-- Staff Dashboard
-- Order History
-- Feedback System
+* 🔐 Role-Based Authentication
+* 👤 Customer Dashboard
+* 👨‍🍳 Staff Dashboard
+* 👨‍💼 Admin Dashboard
+* 🍔 Food Menu & Search
+* 🛒 Shopping Cart
+* 📦 Online Food Ordering
+* 📍 Queue Position Tracking
+* ⏱️ Estimated Waiting Time
+* 🔄 Reorder Previous Orders
+* 📊 Admin Business Analytics
+* 📈 Interactive Charts using Chart.js
+* 💰 Food Sales Reports
+* 📄 Delivered Orders PDF Export
+* 👥 Staff Management
+* 💬 Customer Feedback & Admin Replies
+* 👤 Profile Management
+* 🔑 Password Management
 
-**Tech Stack**
+### Tech Stack
 
-Python • Flask • HTML • CSS • JavaScript • SQLite
+Python • Flask • SQLite • HTML5 • CSS3 • JavaScript • Chart.js • ReportLab • Werkzeug
 
----
+[View SnackQ Repository](https://github.com/SamhithaBhatN/SnackQ)
 
-## 💰 BudgetWise *(In Progress)*
-
-A Personal Finance & Expense Management System.
-
-### Features
-
-- Expense Tracking
-- Budget Planning
-- Monthly Reports
-- Analytics Dashboard
-- Category Management
-
-**Tech Stack**
-
-Python • Flask • Bootstrap • SQLAlchemy • MySQL
+**Status:** Completed ✅
 
 ---
 
-## 🌐 Portfolio Website *(Coming Soon)*
+## 💰 BudgetWise – Personal Finance & Expense Management System
 
-A personal website to showcase:
+A full-stack personal finance management application built to help users track income and expenses, manage budgets, monitor savings goals, and analyze their financial activity.
 
-- Projects
-- Technical Skills
-- Certifications
-- Resume
-- Contact Information
+### Key Features
+
+* 🔐 User Authentication
+* 🔒 Secure Password Hashing
+* 💳 Transaction Management
+* 🏷️ Category Management
+* 💰 Monthly Budget Management
+* 📊 Budget Progress Tracking
+* ⚠️ Budget Warning & Exceeded Notifications
+* 🎯 Savings Goals
+* 🔔 Goal Reminders
+* 📢 Notification Management
+* 📅 Monthly Financial Reports
+* 📈 Category-wise Expense Analysis
+* 📊 Six-month Financial Trends
+* 👤 Profile Management
+* ⚙️ Account Settings
+* 🔐 User Data Isolation
+* 🛡️ CSRF Protection
+* 🗃️ Database Migrations with Flask-Migrate & Alembic
+* 🧪 Automated Testing
+
+### Testing
+
+**53 automated tests passing** ✅
+
+### Tech Stack
+
+Python • Flask • SQLAlchemy • MySQL • Bootstrap • JavaScript • Flask-Login • Flask-WTF • Flask-Migrate • Alembic • pytest
+
+### Status
+
+**Development:** Completed ✅
+**GitHub:** Available ✅
+**Deployment:** Planned 🚧
+
+[View BudgetWise Repository](https://github.com/SamhithaBhatN/BudgetWise)
 
 ---
 
-# 📚 Currently Learning
+## 🌐 Portfolio Website
 
-- Full Stack Development
-- Data Structures & Algorithms
-- SQL
-- Git & GitHub
-- Advanced Python
-- Problem Solving
+A personal portfolio website planned to showcase:
+
+* Projects
+* Technical Skills
+* Certifications
+* Resume
+* Contact Information
+
+**Status:** Coming Soon 🚧
+
+---
+
+# 📚 Currently Learning & Improving
+
+* 🧠 Data Structures & Algorithms
+* 🖥️ Computer Fundamentals & Computer Science Basics
+* 💻 Problem Solving
+* 🗄️ SQL & Database Concepts
+* 🌐 Full Stack Development
+* 🏗️ Software Engineering Practices
+* 📖 Technical & Communication Skills
+* 🚀 Building and documenting portfolio-quality projects
 
 ---
 
 # 🏆 Certifications
 
-- 🐍 Python Programming — SoloLearn
-- 💻 Full Stack Development Workshop — Alva's College
-- 🔐 Introduction to Cyber Security — Cisco Networking Academy
-- 🛡️ Foundations of Cyber Security — Coursera
-- 📊 Data Science 101 — IBM SkillsBuild
-- 🤖 Applications of AI — Great Learning
-- 💻 C Programming — Programming Hero
+* 🐍 Python Programming — SoloLearn
+* 💻 Full Stack Development Workshop — Alva's College
+* 🔐 Introduction to Cyber Security — Cisco Networking Academy
+* 🛡️ Foundations of Cyber Security — Coursera
+* 📊 Data Science 101 — IBM SkillsBuild
+* 🤖 Applications of AI — Great Learning
+* 💻 C Programming — Programming Hero
+
+---
+
+# 💼 Internship Experience
+
+### 💻 Junior Software Developer Intern
+
+**NSDC Yuva Interns**
+
+**July 2026 – August 2026 · Remote**
+
+Worked on software development project planning and technical documentation activities, including:
+
+* 📋 Project scoping
+* 📝 Preparation of Software Requirements Documentation (SRD)
+* 🏗️ System architecture design
+* 🧩 Module breakdown and planning
+* 📚 Technical documentation
+
+---
+
+### 📱 Digital Marketing Intern
+
+**iSarva Infotech Private Limited**
+
+**July 2025 · On-site**
+
+Gained practical experience in digital marketing, social media content creation, marketing research, and website-related research.
+
+* 🎨 Created promotional posters using Canva for LinkedIn posts.
+* ✍️ Prepared LinkedIn post captions and marketing copy.
+* ☁️ Worked on content related to Cloud Computing, Website Redesign, HRMS, WordPress Development, CMS Web Design, and Website Maintenance.
+* 🔎 Conducted research and data collection related to SEO, website design, website redesign, responsive web design, and digital marketing.
+* 📊 Prepared presentations and research reports on website-related topics.
+* 📢 Assisted with LinkedIn activities, promotional content, and marketing outreach.
+
+---
+
+### 📊 Data Science Intern
+
+**Elewayte**
+
+**January 2025 – February 2025 · Remote**
+
+Gained hands-on experience in data analytics and machine learning through practical projects.
+
+* 🐍 Developed an **Employee Data Analytics** project using Python and Pandas.
+* 📊 Performed exploratory data analysis, data visualization, and statistical analysis.
+* ⚖️ Conducted gender pay-gap analysis.
+* 🤖 Developed an **Income Prediction** machine learning project using the Adult Census Income dataset.
+* 🧠 Implemented **SVM, Random Forest, and Logistic Regression** models.
+* 📈 Evaluated models using accuracy scores, classification reports, and performance metrics.
+* ⚙️ Applied **RandomizedSearchCV** for hyperparameter tuning.
+* 🔢 Built a single-input prediction workflow for income prediction.
+
+[View Data Science Internship Projects](https://github.com/SamhithaBhatN/Data-Science-Internship-2025)
 
 ---
 
@@ -129,8 +232,6 @@ A personal website to showcase:
 <img height="170" src="https://streak-stats.demolab.com?user=SamhithaBhatN&theme=tokyonight&hide_border=true"/>
 
 </p>
-
-> **Note:** GitHub Readme Stats is currently experiencing deployment issues. You can add the stats cards back later when the service becomes available again.
 
 ---
 
@@ -165,7 +266,7 @@ A personal website to showcase:
 </a>
 
 <a href="https://github.com/SamhithaBhatN">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:samhithabhat311@gmail.com">
