@@ -9,6 +9,14 @@ Passionate about building practical web applications with Python and Flask while
 </p>
 
 <p align="center">
+
+<a href="https://samhitha-portfolio.onrender.com/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-Visit%20Website-0e75b6?style=for-the-badge"/>
+</a>
+
+</p>
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=SamhithaBhatN&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 <img src="https://img.shields.io/github/followers/SamhithaBhatN?label=Followers&style=flat"/>
@@ -44,7 +52,7 @@ Passionate about building practical web applications with Python and Flask while
 ### Frameworks, Databases & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask,bootstrap,sqlite,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=flask,bootstrap,sqlite,git,github,vscode"/>
 </p>
 
 ---
@@ -122,9 +130,8 @@ Python • Flask • SQLAlchemy • MySQL • Bootstrap • JavaScript • Flask
 
 ### Status
 
-**Development:** Completed ✅
+**Development:** Completed ✅  
 **GitHub:** Available ✅
-**Deployment:** Planned 🚧
 
 [View BudgetWise Repository](https://github.com/SamhithaBhatN/BudgetWise)
 
@@ -132,15 +139,21 @@ Python • Flask • SQLAlchemy • MySQL • Bootstrap • JavaScript • Flask
 
 ## 🌐 Portfolio Website
 
-A personal portfolio website planned to showcase:
+A responsive personal portfolio website built with Python and Flask to showcase my projects, technical skills, internship experience, certifications, resume, and professional profiles.
 
-* Projects
-* Technical Skills
-* Certifications
-* Resume
-* Contact Information
+### Tech Stack
 
-**Status:** Coming Soon 🚧
+Python • Flask • HTML5 • CSS3 • JavaScript
+
+### Status
+
+**Development:** Completed ✅  
+**GitHub:** Available ✅  
+**Live Website:** Available ✅
+
+🌐 [Visit My Portfolio](https://samhitha-portfolio.onrender.com/)
+
+[View Portfolio Repository](https://github.com/SamhithaBhatN/Portfolio)
 
 ---
 
@@ -269,7 +282,7 @@ Gained hands-on experience in data analytics and machine learning through practi
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:samhithabhat311@gmail.com">
+<a href="mailto:samhithabhatn@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
